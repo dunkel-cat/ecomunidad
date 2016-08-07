@@ -1,0 +1,50 @@
+
+nav, a{
+	margin-top: 60px;
+	color: black;
+}
+/*section one*/
+.banner{
+	background-image: url(../img/semilla.jpg);
+	height: 500px;
+	background-size: 100% 500px;
+	background-repeat: no-repeat; 
+}
+.plomito{
+	height: 200px;
+	width: 100%;
+	border: 1px solid #f2f2f2;
+}
+.txt1{
+	padding: 50px 300px ;
+}
+/*section 2*/
+.mision, .vision{
+	padding:55px;
+}
+#mivi{
+	position: relative;
+	left: 160px;
+	
+}
+/*section5*/
+.img5{
+	background-image: url(../img/metodo.JPG);
+	
+	height: 380px;
+	
+	margin: 0;
+	
+}
+.fondo{
+	background-image: url(../img/fondo.jpg);
+	
+	height:380px;
+	
+	margin: 0;
+	
+}
+.img-articulo{
+	margin: 0 !important; 
+	width: 50% !important;
+}
