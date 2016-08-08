@@ -51,7 +51,7 @@ nav, a{
 
 /*=======================================================Servicios======================================*/
 .edu{
-	border:1px solid green;
+
 	padding: 70px;
 }
 .text-ser{
@@ -96,11 +96,36 @@ nav, a{
   padding: 80px;
   border:1px solid green;
 }
-.flecha1{
+/*
+.flechis1{
 	float: left;
   margin: 213px 0px 0px 50px;
 }
-.flecha2{
+.flechis2{
 	float: right;
-	margin: -240px 55px 0px 0px
+	margin: -213px 55px 0px 0px
+}*/
+/*============================================redes===============================================*/
+.gray-9{
+	background-color: gray;
+}
+.fb{
+border: 1px solid black;
+}
+.twit{
+	border: 1px solid black;
+}
+.mail{
+	border: 1px solid black;
+}
+.lin{
+	border: 1px solid black;
+}
+#redes{
+	
+	height:50px;
+	width: 50px;
+	position: relative;
+	left: 180px;
+	bottom:50px;
 }
