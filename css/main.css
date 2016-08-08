@@ -6,9 +6,10 @@ nav, a{
 /*section one*/
 .banner{
 	background-image: url(../img/semilla.jpg);
+	background-position: center; 
 	height: 500px;
-	background-size: 100% 500px;
-	background-repeat: no-repeat; 
+	margin:0;
+	
 }
 .plomito{
 	height: 200px;
@@ -51,12 +52,8 @@ nav, a{
 
 /*=======================================================Servicios======================================*/
 .edu{
-
-	padding: 20px;
-	
-}
-.text-ser{
-
+   padding: 0px;
+	border: 1px solid green;	
 }
 .txt3{
 	margin-right: 20px;
@@ -113,19 +110,21 @@ nav, a{
 }
 .fb{
 border: 3px solid #544d4d;
-
+height: 200px;
 }
 .twit{
 	border: 3px solid #544d4d;
+	height: 200px;
 	
 }
 .mail{
 	border: 3px solid #544d4d;
-	
+	height: 200px;
+
 }
 .lin{
 	border: 3px solid #544d4d;
-	
+	height: 200px;
 }
 #redes{
 	
@@ -134,4 +133,8 @@ border: 3px solid #544d4d;
 	position: relative;
 	left: 180px;
 	bottom:50px;
+}
+/*============================================Footer===============================================*/
+.laboratoria{
+ color: #f03303;
 }
