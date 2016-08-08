@@ -66,7 +66,15 @@ nav, a{
 	font-size: 20px;
 }
 /*============================================Proyectos===============================================*/
-
-.bloque6 .sub{
-	font-size: 18px;
-	margin-bottom: 10px;
+.proyectos {
+	background-color: #358B4D;
+	padding-bottom: 2%;
+}
+.niñas{
+	width: 700px;
+	height: 450px;
+	border:1px solid green;
+}
+.text3{
+	padding-bottom: 200px;
+}
