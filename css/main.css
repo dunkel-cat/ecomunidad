@@ -92,3 +92,15 @@ nav, a{
 .gray{
 	color:gray;
 }
+.box{
+  padding: 80px;
+  border:1px solid green;
+}
+.flecha1{
+	float: left;
+  margin: 213px 0px 0px 50px;
+}
+.flecha2{
+	float: right;
+	margin: -240px 55px 0px 0px
+}
