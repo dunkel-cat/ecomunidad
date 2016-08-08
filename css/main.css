@@ -83,3 +83,12 @@ nav, a{
 	border-radius: 50%;
 	width: 250px;
 }
+/*============================================Blog===============================================*/
+.fondo2{
+	background-image: url(../img/fondo2.jpg);
+	height:380px;
+	margin: 0;
+}
+.gray{
+	color:gray;
+}
