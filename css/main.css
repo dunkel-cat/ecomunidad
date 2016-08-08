@@ -18,13 +18,13 @@ nav, a{
 .txt1{
 	padding: 50px 300px ;
 }
-/*section 2*/
+/*=====================================================Misión Visión======================================*/
 .mision, .vision{
 	padding:55px;
 }
 #mivi{
 	position: relative;
-	left: 160px;
+	left: 220px;
 	
 }
 /*section5*/
@@ -52,8 +52,8 @@ nav, a{
 /*=======================================================Servicios======================================*/
 .edu{
 
-	padding: 30px;
-	border: 1px solid green;
+	padding: 20px;
+	
 }
 .text-ser{
 
@@ -109,18 +109,23 @@ nav, a{
 /*============================================redes===============================================*/
 .gray-9{
 	background-color: gray;
+	height: 300px;
 }
 .fb{
-border: 1px solid black;
+border: 3px solid #544d4d;
+
 }
 .twit{
-	border: 1px solid black;
+	border: 3px solid #544d4d;
+	
 }
 .mail{
-	border: 1px solid black;
+	border: 3px solid #544d4d;
+	
 }
 .lin{
-	border: 1px solid black;
+	border: 3px solid #544d4d;
+	
 }
 #redes{
 	
